@@ -1,4 +1,4 @@
-# Blockchain Javascript  [![GPL licensed](https://img.shields.io/badge/license-gpl-blud.svg)](license) [![Credit Youtube](https://img.shields.io/badge/Youtube-BlockChain-red)](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ)
+# Blockchain Javascript  [![GPL licensed](https://img.shields.io/badge/license-gpl-blud.svg)](https://www.gnu.org/licenses/gpl-3.0.html) [![Credit Youtube](https://img.shields.io/badge/Youtube-BlockChain-red)](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ)
 
 สามารถนำไปพัฒนาต่อยอดได้ และศึกษาวิธีการทำงานได้ เหมาะสำหรับ Blockchain Dev 
 
