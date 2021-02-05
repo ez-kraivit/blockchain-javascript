@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Kraivit Mongkhonsakunrit",
-  "license": "GNU",
+  "license": "GPL",
   "dependencies": {
     "crypto": "^1.0.1"
   }
